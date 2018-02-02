@@ -51,7 +51,7 @@
     <link href="http://yoursite.com/2018/02/01/Markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
     <id>http://yoursite.com/2018/02/01/Markdown基本语法/</id>
     <published>2018-02-01T06:45:59.000Z</published>
-    <updated>2018-02-02T02:42:56.951Z</updated>
+    <updated>2018-02-02T03:01:03.548Z</updated>
     
     <content type="html"><![CDATA[<p>Markdown是一种标记语言。<br><a id="more"></a></p><p>#1.内容目录<br>使用[TOC]引用目录。</p><p>#2.标题设置<br>第一种：在文字上方添加=和-分别表示一级标题和二级标题。<br>第二种：在文字开头加上#，通过#的数量表示几级标题。</p><blockquote><p>例如:<br>#一级标题 <br>##二级标题<br>###三级标题</p><p>#3.块注释<br>通过在文字开头添加&gt;表示块注释。<br><br>例如：&gt;注释<br>注释</p><p>#4.粗体<br>将需要设置为粗体的文本使用2个<strong>或者_夹起来。<br>例如：</strong>粗体**</p><p>#5.斜体<br>使用1个*或者_。<br>例如：<strong>斜体</strong></p><p>#6.无序列表<br>在文字开头添加（*，+，-）实现无序列表。但是要在文字和符号间加上一个空格。</p><p>#7.有序列表<br>使用数字后面跟上句号点。</p><p>#8.链接<br>1.内敛方式：</p><p><pre> <a href="www.baidu.com">百度</a></pre><br><a href="www.baidu.com">百度</a><br></p></blockquote><p>2.引用式：</p><pre>[百度][1]：[1]:www.baidu.com</pre>>[百度][1]：[1]:www.baidu.com#9.插入图片<pre>>![](url)</pre>]]></content>
     
